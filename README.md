@@ -1,3 +1,3 @@
 # Server Check Program
 
-Shell script for check communication with server
+A shell script to verify communication with the server
