@@ -1,6 +1,6 @@
 #!/bin/bash
 
-server_ip=192.168.1.1 # example
+server_ip=192.168.1.1 # This is an example, change this to your server ip
 server_status=1
 while [ $server_status -eq 1 ]
 do
